@@ -1,0 +1,13 @@
+---
+version: 0.2
+phases:
+  install:
+    commands:
+      - apk update
+      - apk install py-pip
+      - pip install awscli
+  build:
+    commands:
+      - aws s3 sync src s3://${DEPLOYMENT_BUCKET}/
+        --recursive
+        --acl=public-read
