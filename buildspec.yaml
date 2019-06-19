@@ -4,7 +4,7 @@ phases:
   install:
     commands:
       - apk update
-      - apk install py-pip
+      - apk add py-pip
       - pip install awscli
   build:
     commands:
