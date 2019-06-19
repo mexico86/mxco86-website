@@ -8,6 +8,4 @@ phases:
       - pip install awscli
   build:
     commands:
-      - aws s3 sync src s3://${DEPLOYMENT_BUCKET}/
-        --recursive
-        --acl=public-read
+      - aws s3 sync src s3://${DEPLOYMENT_BUCKET}/ --acl=public-read
