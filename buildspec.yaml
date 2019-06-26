@@ -19,4 +19,4 @@ phases:
       # Build the site based on the deployment stage
       - if [[ "${STAGE}" = "nonprod" ]]; then hugo --baseURL=${NONPROD_URL/__DEPLOYMENT_BUCKET__/${DEPLOYMENT_BUCKET}} ; fi
       - if [[ "${STAGE}" = "prod" ]]; then hugo --baseURL=${PROD_URL/__DEPLOYMENT_BUCKET__/${DEPLOYMENT_BUCKET}} ; fi
-      - aws s3 sync ./public "s3://${DEPLOYMENT_BUCKET}/" --acl=public-read
+      - aws s3 sync ./public "s3://${DEPLOYMENT_BUCKET}/" --acl=public-read --delete
