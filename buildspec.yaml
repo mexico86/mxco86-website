@@ -9,6 +9,7 @@ phases:
   build:
     commands:
       - git init
+      - rm -rf themes/hugo-coder
       - git submodule add
             https://github.com/luizdepra/hugo-coder.git themes/hugo-coder
       - hugo
