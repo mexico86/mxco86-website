@@ -1,5 +1,9 @@
 ---
 version: 0.2
+env:
+  variables:
+    NONPROD_URL: "http://__DEPLOYMENT_BUCKET__.s3-website-eu-west-1.amazonaws.com"
+    PROD_URL: "https://__DEPLOYMENT_BUCKET__"
 phases:
   install:
     commands:
@@ -12,5 +16,7 @@ phases:
       - rm -rf themes/hugo-coder
       - git submodule add
             https://github.com/luizdepra/hugo-coder.git themes/hugo-coder
-      - hugo
-      - aws s3 sync ./public s3://${DEPLOYMENT_BUCKET}/ --acl=public-read
+      # Build the site based on the deployment stage
+      - if [[ "${STAGE}" = "nonprod" ]]; then hugo --baseURL=${NONPROD_URL/__DEPLOYMENT_BUCKET__/${DEPLOYMENT_BUCKET}} ; fi
+      - if [[ "${STAGE}" = "prod" ]]; then hugo --baseURL=${PROD_URL/__DEPLOYMENT_BUCKET__/${DEPLOYMENT_BUCKET}} ; fi
+      - aws s3 sync ./public "s3://${DEPLOYMENT_BUCKET}/" --acl=public-read
