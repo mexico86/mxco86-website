@@ -4,8 +4,9 @@ phases:
   install:
     commands:
       - apk update
-      - apk add py-pip
+      - apk add py-pip hugo
       - pip install awscli
   build:
     commands:
+      - hugo
       - aws s3 sync ./public s3://${DEPLOYMENT_BUCKET}/ --acl=public-read

@@ -1,7 +1,8 @@
 *.js
 *.d.ts
 node_modules
-resources
+/resources
+/public
 
 # CDK asset staging directory
 .cdk.staging
