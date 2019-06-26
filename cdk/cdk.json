@@ -1,0 +1,3 @@
+{
+  "app": "npx ts-node bin/mxco86-website.ts"
+}
