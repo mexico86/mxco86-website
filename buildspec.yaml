@@ -4,9 +4,12 @@ phases:
   install:
     commands:
       - apk update
-      - apk add py-pip hugo
+      - apk add git py-pip hugo
       - pip install awscli
   build:
     commands:
+      - git init
+      - git submodule add
+            https://github.com/luizdepra/hugo-coder.git themes/hugo-coder
       - hugo
       - aws s3 sync ./public s3://${DEPLOYMENT_BUCKET}/ --acl=public-read
