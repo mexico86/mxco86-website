@@ -8,7 +8,7 @@ uglyURLs = true
 paginate = 20
 canonifyurls = true
 
-pygmentsstyle = "bw"
+pygmentsstyle = "solarized-dark"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
