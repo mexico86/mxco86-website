@@ -1,5 +1,5 @@
 baseurl = "https://www.mexico86.co.uk"
-title = "Mexico86"
+title = ""
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -24,7 +24,8 @@ disqusShortname = ""
     favicon_32 = "images/favicon-32x32.png"
     favicon_16 = "images/favicon-16x16.png"
 
-    footercontent = "◆"
+#    footercontent = "◆"
+    footercontent = ""
 
     hidecredits = true
     hidecopyright = true
