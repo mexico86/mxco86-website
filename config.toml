@@ -53,11 +53,11 @@ disqusShortname = ""
     url = "https://www.linkedin.com/in/matthew-ryall-7511ba1/"
 
 # Menu links
-[[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "/posts.html"
-[[menu.main]]
-    name = "About"
-    weight = 2
-    url = "/about.html"
+# [[menu.main]]
+#     name = "Blog"
+#     weight = 1
+#     url  = "/posts.html"
+# [[menu.main]]
+#     name = "About"
+#     weight = 2
+#     url = "/about.html"
