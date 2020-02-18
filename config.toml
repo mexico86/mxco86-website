@@ -15,8 +15,8 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = ""
 
 [params]
-    author = "Mexico86" # Author's name.
-    info = "Handmade Technology" # Author's job title or info.
+    author = "" # Author's name.
+    info = "Technical Consulting" # Author's job title or info.
     description = "Mexico86: Handmade Technology" # Site description.
     keywords = "mexico86,mxco86,technology,strategy,serverless,aws" # Site keywords.
     avatarurl = "images/86.png" # Contain the path of the optional avatar in the static folder.
@@ -45,19 +45,24 @@ disqusShortname = ""
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
-    weight = 3
+    weight = 2
     url = "https://twitter.com/mxco86"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin fa-2x"
     weight = 3
     url = "https://www.linkedin.com/in/matthew-ryall-7511ba1/"
+[[params.social]]
+    name = "Services"
+    icon = "fas fa-concierge-bell fa-2x"
+    weight = 4
+    url = "/services.html"
 
 # Menu links
-# [[menu.main]]
-#     name = "Blog"
-#     weight = 1
-#     url  = "/posts.html"
+#[[menu.main]]
+#    name = "Blog"
+#    weight = 1
+#    url  = "/posts.html"
 # [[menu.main]]
 #     name = "About"
 #     weight = 2
