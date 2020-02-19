@@ -7,16 +7,16 @@
       </a>
     </div>
     <div class="header-col">
-    <input type="checkbox" id="menu-toggle" />
-    <label class="menu-button float-right" for="menu-toggle"><i class="fas fa-bars"></i></label>
-    <ul class="navigation-list">
       {{ with .Site.Menus.main}}
-        {{ range sort . }}
+        <input type="checkbox" id="menu-toggle" />
+        <label class="menu-button float-right" for="menu-toggle"><i class="fas fa-bars"></i></label>
+        <ul class="navigation-list">
+          {{ range sort . }}
           <li class="navigation-item">
             <a class="navigation-link" href="{{ .URL | safeURL }}">{{ .Name }}</a>
           </li>
+          {{ end }}
         {{ end }}
-      {{ end }}
       {{ if .Site.IsMultiLingual }}
         {{ $node := . }}
         {{ .Scratch.Set "separator" true }}
