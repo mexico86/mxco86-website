@@ -1,7 +1,7 @@
 +++
 title = "Technical Partnership"
 author = ["Matthew Ryall"]
-draft = true
+draft = false
 billing = "Billed on a per-project basis"
 +++
 

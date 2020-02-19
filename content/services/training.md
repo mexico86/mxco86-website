@@ -1,7 +1,7 @@
 +++
 title = "Training / Workshops"
 author = ["Matthew Ryall"]
-draft = true
+draft = false
 billing = "Billed on a per-training-item basis"
 +++
 

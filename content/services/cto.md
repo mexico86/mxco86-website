@@ -1,7 +1,7 @@
 +++
 title = "CTO as a Service"
 author = ["Matthew Ryall"]
-draft = true
+draft = false
 billing = "Billed at an hourly rate on an as-needed basis or as a monthly retainer"
 +++
 

@@ -11,6 +11,7 @@ body {
 .col {
     width: 32%;
     padding: 0px 2% 0px 2%;
+    border: 1px black solid;
     display: flex;
     flex-direction: column;
 }
@@ -30,9 +31,20 @@ body {
 }
 
 @media (max-width: 400px) {
-  .flex-grid {
-    display: block;
-  }
+    .flex-grid {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        padding: 5px
+    }
+    .col {
+        width: 95%;
+        padding: 0px 2% 0px 2%;
+        border: 1px black solid;
+        display: flex;
+        flex-direction: column;
+        margin: 5px;
+    }
 }
 
 .header-flex-grid {
@@ -45,6 +57,7 @@ body {
     width: 50%;
     height: 50px;
 }
+
 
 img.nav {
   max-width: 80%;
