@@ -52,11 +52,6 @@ disqusShortname = ""
     icon = "fab fa-linkedin fa-2x"
     weight = 3
     url = "https://www.linkedin.com/in/matthew-ryall-7511ba1/"
-[[params.social]]
-    name = "Services"
-    icon = "fas fa-concierge-bell fa-2x"
-    weight = 4
-    url = "/services.html"
 
 # Menu links
 # [[menu.main]]
@@ -67,3 +62,7 @@ disqusShortname = ""
     name = "Personnel"
     weight = 1
     url = "/personnel/matthew-ryall.html"
+[[menu.main]]
+   name = "Services"
+   weight = 2
+   url  = "/services.html"
