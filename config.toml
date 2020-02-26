@@ -19,10 +19,10 @@ disqusShortname = ""
     info = "Technical Consulting" # Author's job title or info.
     description = "Mexico86: Handmade Technology" # Site description.
     keywords = "mexico86,mxco86,technology,strategy,serverless,aws" # Site keywords.
-    avatarurl = "images/86.png" # Contain the path of the optional avatar in the static folder.
+    avatarurl = "/images/86.png" # Contain the path of the optional avatar in the static folder.
 
-    favicon_32 = "images/favicon-32x32.png"
-    favicon_16 = "images/favicon-16x16.png"
+    favicon_32 = "/images/favicon-32x32.png"
+    favicon_16 = "/images/favicon-16x16.png"
 
 #    footercontent = "◆"
     footercontent = ""
@@ -59,11 +59,11 @@ disqusShortname = ""
     url = "/services.html"
 
 # Menu links
-#[[menu.main]]
-#    name = "Blog"
-#    weight = 1
-#    url  = "/posts.html"
 # [[menu.main]]
-#     name = "About"
-#     weight = 2
-#     url = "/about.html"
+#    name = "Blog"
+#    weight = 2
+#    url  = "/posts.html"
+[[menu.main]]
+    name = "Personnel"
+    weight = 1
+    url = "/personnel/matthew-ryall.html"
