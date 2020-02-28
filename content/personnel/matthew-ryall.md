@@ -68,7 +68,7 @@ on-premise legacy retail systems.
 In this short project a research group we helped in the creation and
 organisation of a communication hub including a blog, mailing list and
 dynamic visualisation of group skills. The overriding need is for the
-system to be simple and self-managed by non-technical group. A static
+system to be simple and self-managed by a non-technical group. A static
 publishing system was built using Netlify as a hosting platform and
 JAMStack technologies Hugo and NetlifyCMS with custom data integration
 and visualisation using a serverless AWS backend and D3.js.
