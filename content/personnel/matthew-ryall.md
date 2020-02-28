@@ -65,18 +65,19 @@ on-premise legacy retail systems.
 
 #### Sheffield Hallam University - Research Group Communication {#sheffield-hallam-university-research-group-communication}
 
-In this short project a research group was aided in the creation and
+In this short project a research group we helped in the creation and
 organisation of a communication hub including a blog, mailing list and
 dynamic visualisation of group skills. The overriding need is for the
 system to be simple and self-managed by non-technical group. A static
 publishing system was built using Netlify as a hosting platform and
 JAMStack technologies Hugo and NetlifyCMS with custom data integration
-and visualisation using a serverless AWS backend and D3.js
+and visualisation using a serverless AWS backend and D3.js.
 
 
 #### The Developer Academy - Training Course Design and Delivery {#the-developer-academy-training-course-design-and-delivery}
 
-Working in partnership with the The Developer Academy to design, develop
+In this ongoing engagement we are working in partnership with the [The
+Developer Academy](<https://thedeveloperacademy.com>) to design, develop
 and deliver training courses for the next generation of developers.
 
 
@@ -86,10 +87,10 @@ and deliver training courses for the next generation of developers.
 #### Chief Technical Architect {#chief-technical-architect}
 
 Led the growth and development of the technical e-commerce, retail
-management and operations systems over a period of fifteen years. Led
-the growth of the development and operations teams for an initial period
-of six years before focusing on the software development teams and
-global system architecture. This period saw the company growing from
+management and operations systems over a period of fifteen years.
+Responsible for the development and operations teams for an initial
+period of six years before focusing on the software development teams
+and global system architecture. This period saw the company growing from
 tiny beginnings in a Chelsea art studio to a global phenomenon with
 offices in three continents and customers across the world.
 
@@ -114,7 +115,7 @@ therefore this is a reduced list of some of the most recently used.
 
 ### Operating Systems {#operating-systems}
 
--   Linux
+-   GNU/Linux
 -   MacOS
 
 
