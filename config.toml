@@ -16,9 +16,9 @@ disqusShortname = ""
 
 [params]
     author = "Mexico86" # Author's name.
-    info = "Technical Consulting" # Author's job title or info.
-    description = "Mexico86: Technical Consulting" # Site description.
-    keywords = "Mexico86,mxco86,technical consulting,technology,strategy,serverless,aws" # Site keywords.
+    info = "Low-Overhead Technology" # Author's job title or info.
+    description = "Mexico86: Low-Overhead Technology" # Site description.
+    keywords = "Mexico86,mxco86,technical consulting,technology,strategy,serverless,aws,low-overhead technology" # Site keywords.
     avatarurl = "/images/86.png" # Contain the path of the optional avatar in the static folder.
 
     favicon_32 = "/images/favicon-32x32.png"
