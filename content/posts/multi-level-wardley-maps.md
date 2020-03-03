@@ -3,7 +3,7 @@ title = "Multi-Level Wardley Mapping"
 author = ["Matthew Ryall"]
 date = 2020-03-02T00:00:00+00:00
 tags = ["organisations", "Wardley Maps"]
-draft = true
+draft = false
 +++
 
 ## Draft {#draft}
