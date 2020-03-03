@@ -24,7 +24,6 @@ disqusShortname = ""
     favicon_32 = "/images/favicon-32x32.png"
     favicon_16 = "/images/favicon-16x16.png"
 
-#    footercontent = "◆"
     footercontent = ""
 
     hidecredits = true
@@ -54,10 +53,10 @@ disqusShortname = ""
     url = "https://www.linkedin.com/in/matthew-ryall-7511ba1/"
 
 # Menu links
-# [[menu.main]]
-#    name = "Blog"
-#    weight = 2
-#    url  = "/posts.html"
+[[menu.main]]
+   name = "Blog"
+   weight = 3
+   url  = "/posts.html"
 [[menu.main]]
     name = "Personnel"
     weight = 1
