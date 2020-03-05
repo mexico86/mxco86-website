@@ -6,10 +6,7 @@ tags = ["organisations", "Wardley Maps"]
 draft = false
 +++
 
-## Draft {#draft}
-
-
-### Introduction / Premise {#introduction-premise}
+## Orientation {#orientation}
 
 Recently I've been thinking about why we use certain approaches in
 particular ways, which I think is an effort to retrofit a more formal
@@ -27,7 +24,7 @@ organisation map and multiple more specific maps showing components,
 composition and external context in more detail.
 
 
-### Top-Level Map - Organisational Context and Business Need {#top-level-map-organisational-context-and-business-need}
+## Top-Level Map - Organisational Context and Business Need {#top-level-map-organisational-context-and-business-need}
 
 For this set of maps the group we were working with initially had fairly
 loosely defined objectives. We were mainly working on adding internal
@@ -45,7 +42,7 @@ continued the anchoring needs of the maps could be refined and agreed.
 {{< figure src="/images/articles/1st-level-organisational-wardley-map.png" caption="Figure 1: Organisation Level Map (Simplified)" >}}
 
 
-### Second-Level Maps - Technical Context(s) {#second-level-maps-technical-context--s}
+## Second-Level Maps - Technical Context(s) {#second-level-maps-technical-context--s}
 
 We use more detailed maps as more of a technical tool. One style which we
 find helpful is a 'zoom' into the technical components of specific area of
@@ -87,7 +84,7 @@ deal with custom item would not exert that level of force on the overall
 activity.
 
 
-### Second-Level Maps - External Context(s) {#second-level-maps-external-context--s}
+## Second-Level Maps - External Context(s) {#second-level-maps-external-context--s}
 
 The two previous maps do not show anything about the external environment
 that the group is operating in. We find that a third map can be useful to
@@ -120,7 +117,7 @@ component.
 {{< figure src="/images/articles/1st-level-organisational-wardley-map-revised.png" caption="Figure 4: Top-level Map Incorporating New Information" >}}
 
 
-### The Magic Number? {#the-magic-number}
+## The Magic Number? {#the-magic-number}
 
 The three maps shown are all related to the same small-ish team working in
 the same larger organisation. They try and show different aspects of the
@@ -140,7 +137,7 @@ are some production techniques we use to help with the task of producing
 the more polished maps but we'll save those for another post.
 
 
-### What Can We Use In 'The Method'? {#what-can-we-use-in-the-method}
+## Summing Up {#summing-up}
 
 As this is the start of trying to sort-of-formalise our low-overhead
 approach to development and technology what have we learned from this
@@ -163,7 +160,7 @@ it:
     representations that become outdated very quickly
 
 
-### Further Reading {#further-reading}
+## Further Reading {#further-reading}
 
 -   The [Wardley Maps](https://medium.com/wardleymaps) book contains discussion and examples of each of these
     types of map
