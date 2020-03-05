@@ -1,7 +1,7 @@
 +++
 title = "Multi-Level Wardley Mapping"
 author = ["Matthew Ryall"]
-date = 2020-03-02T00:00:00+00:00
+date = 2020-03-05T00:00:00+00:00
 tags = ["organisations", "Wardley Maps"]
 draft = false
 +++
@@ -91,17 +91,33 @@ activity.
 
 The two previous maps do not show anything about the external environment
 that the group is operating in. We find that a third map can be useful to
-represent this, sometimes focusing on a specific component that we feel
-is worth effort. Mapping the environment of these components helps us
-stay aware of other developments in the space and how things are moving
-relative to what we are doing. i.e. is our work still valuable and is
-the effort still justified. It also helps us to spotlight organisational
+represent this, sometimes focusing on a specific component that we feel is
+worth effort. Mapping the environment of these components helps us stay
+aware of other developments in the space and how things are moving
+relative to what we are doing. i.e. is our work still valuable and is the
+effort still justified. It also helps us to spotlight organisational
 inertia where that is a concern, rather than having these elements as
 secondary items on a more complex map. Figure 3 shows a context map used
 to highlight the constraints on the development of a component due to
 factors within the wider organisation.
 
 {{< figure src="/images/articles/2nd-level-context-wardley-map.png" caption="Figure 3: More Detailed Context Map" >}}
+
+Highlighting the inertia as it relates to this particular team on the map
+is useful only if we can then use this information in some way. In this
+case the context map highlights an incorrect assumption in the previous
+maps - the supporting data component is much more immature than first
+thought. This presents a problem for the team and is not something that
+they can explicitly control. Moving back up to the top-level context
+allows us to see how we can deal with the problem on an organisational
+level and there is a second team assigned to this area. The maps help us
+address this as an explicit element of the organisational strategy. We
+also highlight and detail the team's need and where it may benefit from
+being a user of another team's work. Additionally we can now feed the new
+information into the other maps to correct the position of the data
+component.
+
+{{< figure src="/images/articles/1st-level-organisational-wardley-map-revised.png" caption="Figure 4: Top-level Map Incorporating New Information" >}}
 
 
 ### The Magic Number? {#the-magic-number}
@@ -141,7 +157,7 @@ it:
     the reason for the placing of a particular component on a higher level
     map
 -   The process of producing multiple maps helps to spark discussion around
-    the anchoring points
+    the anchoring points and assumptions that may not hold under scrutiny
 -   The more maps you have the more your mapping overhead. It helps to keep
     things simple and fairly transient, especially for the more detailed
     representations that become outdated very quickly
