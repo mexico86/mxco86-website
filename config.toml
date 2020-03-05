@@ -56,7 +56,7 @@ disqusShortname = ""
 [[menu.main]]
    name = "Articles"
    weight = 3
-   url  = "/posts.html"
+   url  = "/articles.html"
 [[menu.main]]
     name = "Personnel"
     weight = 1
