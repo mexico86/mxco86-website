@@ -1,5 +1,5 @@
 +++
-title = "Multi-Level Wardley Mapping"
+title = "Exploring with Wardley Maps"
 author = ["Matthew Ryall"]
 date = 2020-03-05T00:00:00+00:00
 tags = ["organisations", "Wardley Maps"]
@@ -117,7 +117,7 @@ component.
 {{< figure src="/images/articles/1st-level-organisational-wardley-map-revised.png" caption="Figure 4: Top-level Map Incorporating New Information" >}}
 
 
-## The Magic Number? {#the-magic-number}
+## The Magic Number (of Maps)? {#the-magic-number--of-maps}
 
 The three maps shown are all related to the same small-ish team working in
 the same larger organisation. They try and show different aspects of the
