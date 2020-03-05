@@ -3,6 +3,7 @@ title = "Exploring with Wardley Maps"
 author = ["Matthew Ryall"]
 date = 2020-03-05T00:00:00+00:00
 tags = ["organisations", "Wardley Maps"]
+type = "posts"
 draft = false
 +++
 
@@ -139,10 +140,8 @@ the more polished maps but we'll save those for another post.
 
 ## Summing Up {#summing-up}
 
-As this is the start of trying to sort-of-formalise our low-overhead
-approach to development and technology what have we learned from this
-mapping activity and the utility of this set of maps? Having thought about
-it:
+What have we learned from this mapping activity and the utility of this set
+of maps?
 
 -   High-level maps can show a clear link between an activity and a
     high-level organisational need
@@ -167,3 +166,5 @@ it:
 -   For some more in-depth discussion of representing sub-system components
     within maps see [this excellent article](https://latticecut.github.io/wardleymaps/2020/01/05/structural-deepening.html) which discusses the evolution of
     components in a jet engine
+
+_Thanks to David Lindsay for reading drafts of this article_
