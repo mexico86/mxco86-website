@@ -30,7 +30,7 @@ tool in our daily work.
 ## Facilitating Technical Conversations {#facilitating-technical-conversations}
 
 We find the process of mapping helps to facilitate conversations within a
-group. What we're looking for here is the enable the agreements and
+group. What we're looking for here is to enable the agreements and
 disagreements people need in order to create alignment on a project. We find
 the mapping activity useful as a structure around which important
 conversations can happen, often in an indirect manner. The maps themselves
