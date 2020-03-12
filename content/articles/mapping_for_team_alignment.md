@@ -91,5 +91,5 @@ it won't tell you what to do, however, as an ongoing activity it's an
 excellent way of getting people to think together and communicate both with
 each other and with people outside the group.
 
-Thanks to [Ben Mosier](https://hiredthought.com/) for the discussion that formed the basis of this
+Thanks to [Ben Mosior](https://hiredthought.com/) for the discussion that formed the basis of this
 article
