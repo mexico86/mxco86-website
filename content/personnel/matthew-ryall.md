@@ -1,5 +1,5 @@
 +++
-title = "Matthew Ryall / Principle Consultant"
+title = "Matthew Ryall / Principal Consultant"
 author = ["Matthew Ryall"]
 date = 2020-02-26T00:00:00+00:00
 draft = false
@@ -45,7 +45,7 @@ human factors in technology teams and business.
 ## Experience {#experience}
 
 
-### Mexico86 - Principle Consultant / September 2016 - Present {#mexico86-principle-consultant-september-2016-present}
+## Mexico86 - Principal Consultant / September 2016 - Present {#mexico86-principal-consultant-september-2016-present}
 
 
 #### LVMH Digital - Creation of a New Software Development Function {#lvmh-digital-creation-of-a-new-software-development-function}
