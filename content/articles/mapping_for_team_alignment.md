@@ -21,10 +21,10 @@ of new activities that we maybe don't understand so well.
 
 We've always been interested in tools and techniques to help with technical
 communication and, perhaps more importantly, aid in approaching
-organisational challenges. About three or four years ago, when looking
-into ways of communicating technical strategy, we discovered Wardley
-Mapping. After using mapping in a few different areas it's become a vital
-tool in our daily work.
+organisational challenges. About three or four years ago, when looking into
+ways of communicating technical strategy, we discovered Wardley Mapping.
+After using mapping in a few different areas it's become a vital tool in our
+daily work.
 
 
 ## Facilitating Technical Conversations {#facilitating-technical-conversations}
@@ -48,17 +48,16 @@ their work can facilitate this.
 
 ## Gaining Multiple Perspectives {#gaining-multiple-perspectives}
 
-What we're looking for with any project or area of work is a team-owned
-approach that makes sense to all involved. When that approach is being
-formed interaction and engagement with the mapping process can give us a new
-perspective. For example, the concept of evolution of components is
-sometimes new to people as a way framing things. When components are
-considered in this way it may bring up new questions and perhaps offer a
-different perspective altogether. When a map is drawn on a whiteboard, and
-something is in a particular evolutionary phase, the team may point out an
-element that relates to a particular problem and are able to discuss that in
-new terms. When information is in front of a group in a visual format it’s
-hard to miss. The activity allows us to work together and often the key
+When a team's approach to an activity is being formed, interaction and
+engagement with the mapping process can give everyone a new perspective. For
+example, the concept of evolution of components is sometimes new to people
+as a way of framing things. When components are considered in this way it
+may bring up new questions and perhaps offer a different viewpoint
+altogether. When a map is drawn on a whiteboard, and a component is in a
+particular evolutionary phase, the team may highlight how this
+relates to a particular problem and are able to discuss that in new terms.
+When information is in front of a group in a visual format it’s hard to
+miss. The activity allows everyone to work together and often the key
 components of the work arise as emergent properties of the group's
 interactions.
 
@@ -68,19 +67,18 @@ interactions.
 ## Highlighting the Shape of Work {#highlighting-the-shape-of-work}
 
 In general, we reach for Wardley Mapping when there is an activity or
-environment which is new to us, and especially when it is something that we
-are struggling to grasp, or where we're not quite sure how something is
-going to work. For new teams, that moment of recognising the need to
-explore something further may not be raised. A team with the ability to say,
-"let's map this!" has a process and a tool to shine some light on different
-issues as they arise.
+environment that is new to us. It is especially useful when we are
+struggling to grasp an idea or where we're not quite sure how something is
+going to work. For new teams, recognising the need to explore something
+further is key. A team with the ability to say, "let's map this!" has a
+process and a tool to shine some light on different issues as they arise.
 
-The map as an artefact also serves as an indicator of the shape of the work
+The map as an artefact also serves as an indicator of the shape of work
 as understood. It can help a team identify where there's a cluster of effort
 in the 'custom build' phase meaning effort to produce novel work.
 Alternatively an abundance of 'product' and 'commodity' components may
 highlight a heavy integration overhead. The map gives form to these patterns
-and becomes part of the teams overall shared understanding.
+and becomes part of the team's overall shared understanding.
 
 
 ## Giving Clarity of Approach {#giving-clarity-of-approach}
