@@ -7,21 +7,26 @@ draft = false
 
 ## Summary {#summary}
 
-Experienced Chief Architect and Technical Team Leader in a variety of
-different companies. Experienced in leading the design, build and
-operational management of technical estates encompassing fully bespoke,
+Experienced **Chief Architect** and **Technical Team Leader** in a variety of
+different companies. Experienced in **leading the design, build and
+operational management of technical estates** encompassing fully bespoke,
 in-house managed systems through to fully outsourced service components.
-Strong interest in organisational development, strategy and cultural and
-human factors in technology teams and business.
+Recently part of a leadership team tasked with **guiding the formation of
+completely new, fully remote technical teams** within a large corporation.
+Strong interest in **organisational development**, **strategy** and **cultural
+and human factors** in technology teams and business.
 
 
 ## Skill Set {#skill-set}
 
 -   Technical team organisation and development
+-   Remote team setup and organisation
 -   Collaborative system architecture development
 -   System architecture review and documentation
 -   Technical documentation
 -   Agile and Lean project management styles
+-   Facilitation of agile processes
+-   Remote collaboration and effective remote tooling
 -   Strategic mapping and planning techniques
 -   Workflow visualisation techniques
 -   Continuous delivery techniques
@@ -45,7 +50,7 @@ human factors in technology teams and business.
 ## Experience {#experience}
 
 
-## Mexico86 - Principal Consultant / September 2016 - Present {#mexico86-principal-consultant-september-2016-present}
+### Mexico86 - Principal Consultant / September 2016 - Present {#mexico86-principal-consultant-september-2016-present}
 
 
 #### LVMH Digital - Creation of a New Software Development Function {#lvmh-digital-creation-of-a-new-software-development-function}
