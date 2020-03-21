@@ -7,23 +7,40 @@ type = "posts"
 draft = false
 +++
 
-![](/images/articles/hans-reniers-Y8C-AVKpsDY-unsplash.jpg) _Photo by [Hans Reniers](https://unsplash.com/@hansreniers) on Unsplash_
+![](/images/articles/hans-reniers-Y8C-AVKpsDY-unsplash.jpg) _Photo by [Hans
+Reniers](https://unsplash.com/@hansreniers) on Unsplash_
 
 
 ## How Can Wardley Mapping Help Team Working? {#how-can-wardley-mapping-help-team-working}
 
-In our work with technical groups we often need to discover where thoughts
-and assumptions lie. It's helpful to align with others and come to a common
-understanding of the landscape both technically and in other areas of the
+In our work with technical teams we often need to discover where thoughts
+and assumptions lie and whether these are common within the group. When
+working with others we sometimes need help to align and come to a common
+understanding of the landscape, both technically and in other areas of the
 work. This is particularly important at the start of new activities, which
 are sometimes difficult to grasp.
 
-We are always interested in tools and techniques to help with technical
-communication and, perhaps more importantly, that give structure when
-approaching organisational challenges. About three or four years ago, when
-looking into ways of communicating technical strategy, we discovered Wardley
-Mapping. After using mapping in a number of areas it's become a vital tool
-in our daily work.
+We are always looking for tools and techniques that help with effective
+technical communication. We find these tools even more interesting when they
+also provide some structure when approaching organisational challenges.
+About three or four years ago, when investigating ways of communicating
+technical strategy, we discovered Wardley Mapping. After using mapping in a
+number of areas it's become a vital tool in our daily work.
+
+
+## What is Wardley Mapping? {#what-is-wardley-mapping}
+
+At a high level, Wardley Mapping is a process of assessing the value chain
+of an activity in terms of evolution. The maps themselves are visual
+descriptions of components and interrelations and attempt to show the
+evolutionary stage of each constituent part. Mapping is best done as a group
+as the process of producing the map requires in depth consideration and
+discussion of the subject to break down components sensibly and determine
+positions in terms of maturity. There is often disagreement and discussion
+around the detail that requires some work to resolve. The result of the
+mapping activity looks something like this:
+
+{{< figure src="/images/articles/high-level-example-map.png" caption="Figure 1: A Simple Wardley Map" >}}
 
 
 ## Facilitating Technical Conversations {#facilitating-technical-conversations}
@@ -69,7 +86,7 @@ produce novel work. Alternatively an abundance of 'product' and 'commodity'
 components may highlight a heavy integration overhead. The map gives form to
 these patterns and becomes part of the team's overall shared understanding.
 
-{{< figure src="/images/articles/mapping-the-shape-of-work.png" caption="Figure 1: Mapping the Shape of an Activity" >}}
+{{< figure src="/images/articles/mapping-the-shape-of-work.png" caption="Figure 2: Mapping the Shape of an Activity" >}}
 
 
 ## Clarity of Approach {#clarity-of-approach}
