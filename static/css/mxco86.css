@@ -81,3 +81,7 @@ img.nav {
     margin-left: 0;
     margin-right: 1.5rem;
 }
+
+td {
+    font-size: .8em;
+}

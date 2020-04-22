@@ -16,23 +16,69 @@ completely new, fully remote technical teams** within a large corporation.
 Strong interest in **organisational development**, **strategy** and **cultural
 and human factors** in technology teams and business.
 
+Technical working knowledge of the design, build and ongoing management
+**on-premises**, **hybrid**, **cloud-first**, **event-driven** and **serverless**
+architectures. Experienced in working closely with direct stakeholders in
+combination with user research teams to determine both the articulated and
+unarticulated **user needs** that define a system or service.
 
-## Skill Set {#skill-set}
+Experienced in the introduction and facilitation of continuous delivery
+techniques including build and ongoing management of **software delivery
+pipelines**. Extensive background in working with software teams to determine
+appropriate **continuous integration** practices, **automated testing**
+practices and methods of **software documentation**.
+
+
+## Technical Skill Set {#technical-skill-set}
+
+A reduced list of some of the most recently used technical tools.
+
+|                           |                                   |                       |             |                         |                |          |   |
+|---------------------------|-----------------------------------|-----------------------|-------------|-------------------------|----------------|----------|---|
+| **Programming Languages** | JavaScript / TypeScript + Node.JS | Perl/Java             | Shell       | PHP                     | Go             | HTML/CSS |   |
+| **Development Tools**     | Git + Forges                      | Jenkins               | CircleCI    | Honeycomb.io            | Datadog        |          |   |
+| **Cloud Platforms**       | AWS                               | GCP                   |             |                         |                |          |   |
+| **Cloud Services**        | EC2, Lambda, ECS                  | RDS, Aurora, Redshift | S3, Glacier | CodePipeline, CodeBuild | CloudFormation | VPC      |   |
+| **Databases**             | PostgreSQL                        | MySQL/MariaDB         | DynamoDB    |                         |                |          |   |
+| **Operating Systems**     | Gnu/Linux                         | MacOS                 |             |                         |                |          |   |
+| **Personal Toolset**      | Emacs + Emacs Lisp                | Org Mode              | Hugo        | OmniGraffle, Draw.io    | PlantUML       | Miro     |   |
+|                           |                                   |                       |             |                         |                |          |   |
+
+
+## Strategic and Organisational Skill Set {#strategic-and-organisational-skill-set}
+
+
+### Team Building and Management {#team-building-and-management}
 
 -   Technical team organisation and development
 -   Remote team setup and organisation
--   Collaborative system architecture development
--   System architecture review and documentation
--   Technical documentation
--   Agile and Lean project management styles
--   Facilitation of agile processes
+-   Recruitment and team building for particular team goals and activities
+    (i.e. people, skills and attitudes for appropriate contexts)
+-   Mentoring and coaching of junior co-workers
+-   Creation and delivery of technical training sessions and courses
+
+
+### Strategic Planning {#strategic-planning}
+
+-   Strategic mapping and planning techniques (e.g. Wardley Mapping, Cynefin etc.)
+-   Collaborative system architecture development and documentation
+-   System architecture review and retrospective documentation
+-   Ongoing technical communication
+
+
+### Team Processes and Practices {#team-processes-and-practices}
+
+-   Facilitation of agile and lean processes
+-   Workflow and WIP visualisation techniques
 -   Remote collaboration and effective remote tooling
--   Strategic mapping and planning techniques
--   Workflow visualisation techniques
--   Continuous delivery techniques
--   Security-focused team practices
--   Experience with legal issues around personal data collection
--   Creation and delivery of technical training courses
+-   Continuous delivery techniques and technologies
+-   Facilitation of security-focused team practices
+
+
+### Legal {#legal}
+
+-   Experience with legal issues around personal data collection (GDPR etc.)
+-   Creation of open source software policies
 
 
 ## Attitude / Approach {#attitude-approach}
@@ -40,11 +86,16 @@ and human factors** in technology teams and business.
 -   Strong belief that technical and business strategy are a single activity
 -   Believe that understanding the current state of an organisation, team or
     technical system is of overriding importance when affecting change
--   Strong advocate for web technologies and web standards
+-   Advocate a strongly user-needs led approach to technology and service
+    systems
 -   Believe that architectural styles, technology choices, languages,
-    frameworks, tools and everything else are context-dependent and the
-    correct choice is a product of a particular group at a particular time
--   Advocate for seeing change as a constant factor in technical systems
+    frameworks and tools are context-dependent and the correct choice is a
+    product of a particular group at a particular time
+-   Advocate for seeing change as a constant factor in technical systems and
+    the management of change as a key capability within technical teams
+-   Strong advocate for web technologies and web standards
+-   Advocate for the strategic use of open approaches (open source
+    software licensing, creative commons) and community participation.
 
 
 ## Experience {#experience}
@@ -110,47 +161,3 @@ technology landscape.
 Many of the groups achievements and milestones were aided a by a very
 supportive and open company culture which was explicitly fostered from
 the early days and consciously tended over time.
-
-
-## Specific / Recently Used Technologies {#specific-recently-used-technologies}
-
-The list of specific technologies used is too long to reasonably list
-therefore this is a reduced list of some of the most recently used.
-
-
-### Operating Systems {#operating-systems}
-
--   GNU/Linux
--   MacOS
-
-
-### Programming Languages {#programming-languages}
-
--   JavaScript/Typescript
--   Perl
--   PHP
--   Python
--   Shell Scripting
--   Golang
--   Emacs Lisp
--   HTML/CSS
-
-
-### Databases {#databases}
-
--   PostgreSQL
--   MySQL / MariaDB
--   AWS DynamoDB
-
-
-### Cloud Infrastructure Platforms {#cloud-infrastructure-platforms}
-
--   AWS - including serverless system development and continuous integration
-
-
-### Infrastructure Services {#infrastructure-services}
-
--   CircleCI
--   Netlify
--   Honeycomb.io
--   DataDog
