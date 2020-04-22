@@ -89,7 +89,7 @@ td {
 @media
 only screen and (max-width: 550px) {
   table, thead, tbody, th, td, tr {
-    display: block;
+      display: block;
   }
   thead tr {
     position: absolute;
@@ -101,17 +101,7 @@ only screen and (max-width: 550px) {
       top: -9999px;
       left: -9999px;
   }
-  td {
-    border: none;
-    position: relative;
-  }
-  td:before {
-    position: absolute;
-    top: 12px;
-    left: 6px;
-    width: 200px;
-    padding-right: 40px;
-    white-space: nowrap;
-    margin-left: -150px;
+  table td, table th {
+      border-bottom: none;
   }
 }
