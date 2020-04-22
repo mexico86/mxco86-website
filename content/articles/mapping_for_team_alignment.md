@@ -7,10 +7,6 @@ type = "posts"
 draft = false
 +++
 
-![](/images/articles/hans-reniers-Y8C-AVKpsDY-unsplash.jpg) _Photo by [Hans
-Reniers](https://unsplash.com/@hansreniers) on Unsplash_
-
-
 ## How Can Wardley Mapping Help Team Working? {#how-can-wardley-mapping-help-team-working}
 
 In our work with technical teams we often need to discover where thoughts
@@ -20,12 +16,13 @@ understanding of the landscape, both technically and in other areas of the
 work. This is particularly important at the start of new activities, which
 are sometimes difficult to grasp.
 
-We are always looking for tools and techniques that help with effective
-technical communication. We find these tools even more interesting when they
+I am always looking for tools and techniques that help with effective
+technical communication. I find these tools even more interesting when they
 also provide some structure when approaching organisational challenges.
-About three or four years ago, when investigating ways of communicating
-technical strategy, we discovered Wardley Mapping. After using mapping in a
-number of areas it's become a vital tool in our daily work.
+About three or four years ago, when hunting around for new ways of
+communicating technical strategy, I discovered Wardley Mapping. After some
+investigation and experimentation with using mapping in different areas and
+contexts it has grown into a vital element of our toolkit.
 
 
 ## What is Wardley Mapping? {#what-is-wardley-mapping}
@@ -45,34 +42,34 @@ mapping activity looks something like this:
 
 ## Facilitating Technical Conversations {#facilitating-technical-conversations}
 
-We find the process of mapping helps to facilitate conversations within a
-group. What we're looking for here is to support the agreements and
-disagreements that help to create alignment on a project. We find
-the mapping activity useful as a scaffold around which important
-conversations can happen, often in an indirect manner. The maps themselves
-provide an anchor for the discussion without explicit focus on a particular
-technical question.
+I find the process of mapping helps to facilitate conversations within a
+group. What's sometimes needed is an activity to support the agreements and
+disagreements that help to create alignment on a project. Mapping can be a
+scaffold around which important conversations can happen, often in an
+indirect manner. The maps themselves provide an anchor for the discussion
+without explicit focus on a particular technical question.
 
-Without mapping we may have posed a question or proposed a solution with the
-intention of starting a conversation. This is easily misinterpreted as
-suggesting a preferred approach which can have the effect of shutting down
-the team's own ideas on how to proceed. The mapping process allows the group
-to own the generation and refinement of strategies, plans and techniques.
+Without mapping it's more likely that other conversation starters will be
+used such as posing a technical question or proposing a straw-man solution.
+These are easily misinterpreted as suggesting or pushing a preferred
+approach, which can have the effect of shutting down a group's ideas on how
+to proceed. The mapping process allows the team to own the generation and
+refinement of strategies, plans and techniques.
 
 
 ## Gaining Multiple Perspectives {#gaining-multiple-perspectives}
 
-As a team is establishing an approach to an activity, interaction and
-engagement with the mapping process can help broaden everyone's perspective.
-For example, the concept of evolution of components is sometimes new to
-people. Considering components in this way may bring up new questions and
-perhaps offer a different viewpoint altogether. As the group maps out a
-domain on a whiteboard, and a component is in a particular evolutionary
-phase, the team may highlight how this relates to a particular problem and
-are able to discuss that in new terms. When information is in front of a
-group in a visual format it can help clarify the finer points. The mapping
-activity allows everyone to work together and often the key components of
-the work arise as emergent properties of this interaction.
+As a team is establishing an approach, interaction and engagement with the
+mapping process can help broaden everyone's perspective. For example, the
+concept of evolution of components is sometimes new to people. Considering
+components in this way may bring up new questions and perhaps offer a
+different viewpoint altogether. As the group maps out a domain on a
+whiteboard, and a component is in a particular evolutionary phase, the team
+may highlight how this relates to a particular problem and are able to
+discuss that in new terms. When information is in front of a group in a
+visual format it can help clarify the finer points. The mapping activity
+allows everyone to work together and often the key components of the work
+arise as emergent properties of this interaction.
 
 
 ## Highlighting the Shape of Work {#highlighting-the-shape-of-work}
@@ -91,7 +88,7 @@ these patterns and becomes part of the team's overall shared understanding.
 
 ## Clarity of Approach {#clarity-of-approach}
 
-We see Wardley Mapping as a tool for generating clarity of approach. A set
+I see Wardley Mapping as a tool for generating clarity of approach. A set
 of maps is not a magical artefact and a team must still determine how to
 take action in each specific area. Where members of a group are establishing
 areas of alignment, the process of mapping can help people think and work
