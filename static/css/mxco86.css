@@ -105,3 +105,57 @@ only screen and (max-width: 550px) {
       border-bottom: none;
   }
 }
+
+@media print {
+    body {
+        font-size: 12pt;
+    }
+
+    .footer-image {
+        display: none;
+    }
+
+    .navigation {
+        display: none;
+    }
+
+    table {
+        width: 100mm;
+        align: center;
+        border-collapse: collapse;
+        break-after: page;
+    }
+
+    tr {
+        border-bottom: 1px solid #CCC;
+    }
+
+    table tbody tr:last-child {
+        border: none;
+    }
+
+    td {
+        padding: 8pt;
+    }
+
+    h1, h2, h3 {
+        margin: 28pt 0 12pt 0;
+    }
+
+    h3, h4, h5, h6 {
+        margin: 8pt 0 0 0;
+    }
+
+    p {
+        margin: 8pt 0 16pt 0;
+    }
+
+    figure img {
+        width: 100%;
+    }
+}
+
+@page {
+  size: A4;
+  margin: 25mm 25mm 25mm 25mm;
+}

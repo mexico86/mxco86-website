@@ -31,7 +31,7 @@ practices and methods of **software documentation**.
 
 ## Technical Skill Set {#technical-skill-set}
 
-A reduced list of some of the most recently used technical tools.
+A reduced list of some of my most recently used technical tools.
 
 |                           |                                   |               |             |                         |                            |               |   |
 |---------------------------|-----------------------------------|---------------|-------------|-------------------------|----------------------------|---------------|---|
