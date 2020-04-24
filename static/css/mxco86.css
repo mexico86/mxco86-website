@@ -38,6 +38,10 @@ h6 {
     text-align: justify;
 }
 
+table, tr, td {
+    font-size: 0.9em;
+}
+
 @media (max-width: 400px) {
     .flex-grid {
         display: flex;
