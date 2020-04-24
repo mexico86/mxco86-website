@@ -33,16 +33,16 @@ practices and methods of **software documentation**.
 
 A reduced list of some of my most recently used technical tools.
 
-|                                      |                                   |                 |                               |                         |                            |      |          |   |
-|--------------------------------------|-----------------------------------|-----------------|-------------------------------|-------------------------|----------------------------|------|----------|---|
-| **Programming Languages + Runtimes** | JavaScript / TypeScript + Node.JS | Perl            | Java / Kotlin / Clojure + JVM | Shell                   | PHP                        | Go   | HTML/CSS |   |
-| **Development Tools**                | Git + Forges                      | Jenkins         | CircleCI                      | Honeycomb.io            | Datadog                    |      |          |   |
-| **Cloud Platforms**                  | AWS                               | GCP             |                               |                         |                            |      |          |   |
-| **Cloud Services**                   | EC2, Lambda, ECS                  | RDS, Aurora     | S3, Glacier                   | CodePipeline, CodeBuild | CloudWatch, CloudFormation | VPC  | IAM, KMS |   |
-| **Databases**                        | PostgreSQL                        | MySQL / MariaDB | DynamoDB                      |                         |                            |      |          |   |
-| **Operating Systems**                | Gnu/Linux                         | MacOS           |                               |                         |                            |      |          |   |
-| **Personal Toolset**                 | Emacs + Emacs Lisp                | Org Mode        | Hugo                          | OmniGraffle, Draw.io    | PlantUML                   | Miro |          |   |
-|                                      |                                   |                 |                               |                         |                            |      |          |   |
+|                                      |                                   |                               |             |                         |                            |      |          |   |
+|--------------------------------------|-----------------------------------|-------------------------------|-------------|-------------------------|----------------------------|------|----------|---|
+| **Programming Languages + Runtimes** | JavaScript / TypeScript + Node.JS | Java / Kotlin / Clojure + JVM | Perl        | Shell                   | PHP                        | Go   | HTML/CSS |   |
+| **Development Tools**                | Git + Forges                      | Jenkins                       | CircleCI    | Honeycomb.io            | Datadog                    |      |          |   |
+| **Cloud Platforms**                  | AWS                               | GCP                           |             |                         |                            |      |          |   |
+| **Cloud Services**                   | EC2, Lambda, ECS                  | RDS, Aurora                   | S3, Glacier | CodePipeline, CodeBuild | CloudWatch, CloudFormation | VPC  | IAM, KMS |   |
+| **Databases**                        | PostgreSQL                        | MySQL/MariaDB                 | DynamoDB    |                         |                            |      |          |   |
+| **Operating Systems**                | Gnu/Linux                         | MacOS                         |             |                         |                            |      |          |   |
+| **Personal Toolset**                 | Emacs + Emacs Lisp                | Org Mode                      | Hugo        | OmniGraffle, Draw.io    | PlantUML                   | Miro |          |   |
+|                                      |                                   |                               |             |                         |                            |      |          |   |
 
 
 ## Strategic and Organisational Skill Set {#strategic-and-organisational-skill-set}
