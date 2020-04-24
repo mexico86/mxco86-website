@@ -14,6 +14,9 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = ""
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
     author = "Mexico86" # Author's name.
     info = "Low-Overhead Technology" # Author's job title or info.
