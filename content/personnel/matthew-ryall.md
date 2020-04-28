@@ -40,7 +40,7 @@ A reduced list of some of my most recently used technical tools.
 | **Cloud Platforms**                  | AWS                               | GCP                           |             |                         |                            |      |          |   |
 | **Cloud Services**                   | EC2, Lambda, ECS                  | RDS, Aurora                   | S3, Glacier | CodePipeline, CodeBuild | CloudWatch, CloudFormation | VPC  | IAM, KMS |   |
 | **Databases**                        | PostgreSQL                        | MySQL/MariaDB                 | DynamoDB    |                         |                            |      |          |   |
-| **Operating Systems**                | Gnu/Linux                         | MacOS                         |             |                         |                            |      |          |   |
+| **Operating Systems**                | GNU/Linux                         | MacOS                         |             |                         |                            |      |          |   |
 | **Personal Toolset**                 | Emacs + Emacs Lisp                | Org Mode                      | Hugo        | OmniGraffle, Draw.io    | PlantUML                   | Miro |          |   |
 |                                      |                                   |                               |             |                         |                            |      |          |   |
 
