@@ -145,10 +145,12 @@ only screen and (max-width: 550px) {
 
     h1, h2, h3 {
         margin: 24pt 0 12pt 0;
+        font-family: sans-serif;
     }
 
     h3, h4, h5, h6 {
         margin: 8pt 0 0 0;
+        font-family: sans-serif;
     }
 
     p {
